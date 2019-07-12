@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: stock-service
+    
+server:
+  port: 8762
+  
+eureka:
+  client:
+    eureka-server-port: 8761
+    fetch-registry: true
+    
+ribbon:
+  http:
+    client:
+      enabled: true
+  
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: romantic-coder
+Implementation-Vendor-Id: com.web.eureka
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/eureka-service
+Created-By: Maven Integration for Eclipse
+
